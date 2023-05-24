@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Playfair&family=Rubik+Distressed&family=Rubik+Microbe&display=swap');
+body{
+  margin: 0;
+  padding: 5px 400px;
+}
+img{
+  width: 100%;
+}
+p{
+  font-size: 22px;
+  color: rgb(53, 52, 52);
+  font-family: 'Playfair', serif;
+}
+span{
+  background-color: rgba(137, 43, 226, 0.401);
+  font-weight: 600;
+  color: black;
+}
